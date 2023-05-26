@@ -1,0 +1,47 @@
+@import "../../../../app/styles/Colors.scss";
+
+.totalFormBox {
+    background-color: $background !important;
+    border-radius: 0.3rem !important;
+    padding: 1rem 0;
+}
+
+.information {
+    background-color: $buttons-text !important;
+    border-radius: 0.4rem !important;
+    margin: 0.8rem 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.menuItemDash {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 0.01rem;
+    background-color: $border ;
+}
+
+.eachBox {
+    margin: 1rem !important;
+}
+
+.boxTitle {
+    position: absolute !important;
+    margin-top: -0.8rem !important;
+    background-color: white !important;
+    margin-left: 1rem !important;
+}
+
+.box {
+    border: 0.05rem solid $border !important;
+    border-radius: 0.4rem !important;
+}
+
+.bioInfo {
+    margin: 1rem !important;
+}
+
+.eachTitle {
+    color: $final_check_title !important;
+}

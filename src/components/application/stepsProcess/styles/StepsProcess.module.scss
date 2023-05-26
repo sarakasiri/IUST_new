@@ -1,0 +1,25 @@
+@import "../../../../app/styles/Colors.scss";
+
+// .buttons {
+//     display: flex !important;
+//     justify-content: flex-end !important;
+// }
+
+// .button {
+//     display: flex !important;
+//     flex-direction: row !important;
+// }
+
+.handleBackButton {
+    border-color: $auth_buttons !important;
+    color: $auth_buttons !important;
+    text-transform: capitalize !important;
+    font-family: Montserrat !important;
+}
+
+.handleNextButton {
+    background-color: $auth_buttons !important;
+    color: $buttons-text !important;
+    text-transform: capitalize !important;
+    font-family: Montserrat !important;
+}

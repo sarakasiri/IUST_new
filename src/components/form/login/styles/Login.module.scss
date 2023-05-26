@@ -1,0 +1,40 @@
+@import "../../../../app/styles/Colors.scss";
+
+.loginBox {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center;
+    margin-top: 2rem !important;
+}
+
+.googleLogin {
+    border: 0.05rem solid #d9e4ec !important;
+    text-transform: capitalize !important;
+    height: 2.8rem !important;
+    margin-bottom: 1.2rem !important;
+}
+
+.menuItemDash {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15rem !important;
+    height: 0.01rem;
+    background-color: #d9e4ec;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem !important;
+}
+
+.loginBtn {
+    background-color: $auth_buttons !important;
+    color: white !important;
+    text-transform: capitalize !important;
+    height: 2.8rem;
+    margin-bottom: 1.2rem !important;
+}

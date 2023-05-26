@@ -1,0 +1,39 @@
+.totalFormBox {
+    font-family: Montserrat;
+    background-color: #f4f1fb;
+    border-radius: 0.3rem !important;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+}
+
+.title {
+    padding: 0.2rem 0 0.5rem 0.5rem;
+    color: #121f3e;
+    font-weight: bold !important;
+    font-size: 1.2rem !important;
+    border-bottom: 0.01rem solid #e5e3ee;
+}
+
+.accordion {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.accordionDetail {
+    background-color: #fafafa !important;
+    margin: 0 1rem !important;
+    padding: 1rem 3rem !important;
+}
+
+.accordionSummary {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.typography {
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-left: auto !important;
+}

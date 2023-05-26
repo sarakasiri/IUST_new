@@ -1,0 +1,40 @@
+.totalFormBox {
+    background-color: rgba(249, 244, 244, 0.541);
+    border-radius: 0.3rem !important;
+    padding: 1rem 0;
+}
+
+.formBox {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.3rem !important;
+    margin: 1rem;
+}
+
+.menuItemDash {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 88%;
+    height: 0.01rem;
+    background-color: #d9e4ec;
+}
+
+.stepsTextField {
+    background-color: rgba(208, 208, 208, 0.251);
+    margin: 0 1rem 0 1rem;
+}
+
+.stepsTextField:hover {
+    border: 0.01rem solid #9989d3;
+}
+
+.radioButtonBackground {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(192, 192, 192, 0.114);
+    border-radius: 0.2rem;
+    margin-left: 0.2rem;
+    width: 7rem;
+    height: 2.85rem;
+}

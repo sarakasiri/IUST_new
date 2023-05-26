@@ -1,0 +1,21 @@
+.totalFormBox {
+    font-family: Montserrat;
+    background-color: #f4f1fb;
+    border-radius: 0.3rem !important;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+}
+
+.title {
+    padding: 0.2rem 0 0.5rem 0.5rem;
+    color: #121f3e;
+    font-weight: bold !important;
+    font-size: 1.2rem !important;
+}
+
+.ticketsButton {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
